@@ -7,4 +7,5 @@ matplotlib
 seaborn
 pydub
 ffmpeg-python
+pytest
 
