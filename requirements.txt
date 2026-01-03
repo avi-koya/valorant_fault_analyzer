@@ -1,0 +1,10 @@
+opencv-python
+pillow
+pytesseract
+numpy
+scipy
+matplotlib
+seaborn
+pydub
+ffmpeg-python
+

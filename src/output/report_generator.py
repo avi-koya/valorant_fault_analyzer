@@ -1,0 +1,2 @@
+"""Text/HTML report generation."""
+
